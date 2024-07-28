@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Test Automation and Devops**
 
-- 💬 Ask me about **Test Auroamtion and Devops**
+- 💬 Ask me about **Test Automation and Devops**
 
 - 📫 How to reach me **vinodkgowda007@gmail.com**
   
